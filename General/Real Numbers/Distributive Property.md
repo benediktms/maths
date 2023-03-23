@@ -5,7 +5,9 @@
 > $$a(b+c) = ab+bc$$
 > $$(b+c)a = ab+ac$$
 
+The distributive property is important because it describes how addition and multiplication interact with eachother.
 
 ## Example
 
-$$2\$$
+$$2\cdot(3+5) = 2\cdot3 + 2\cdot5$$
+$$(3+5)\cdot2 = 2\cdot3 + 2\cdot5$$

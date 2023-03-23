@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "590a2ec1cbc923ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "08dda949842713b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b32b42f3fcbb5e57",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "531ef594305a85ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/Real Numbers/Commutative Properties.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71f94617a19618eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "14a5ad60f6de7363",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4340fe3ebbf1469a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e1b7020bfeda84a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df8fe7434faf9c59",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9f10bdde7a0c818",
+    "type": "split",
+    "children": [
+      {
+        "id": "9867ce24de9c1b6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70f0b7e6b83260eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "General/Real Numbers/Commutative Properties.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3e3945c2524b673",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "General/Real Numbers/Commutative Properties.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65d392efc8565ad3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "77ebd80a0027b95d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "General/Real Numbers/Commutative Properties.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "531ef594305a85ba",
+  "lastOpenFiles": [
+    "General/Real Numbers/Distributive Property.md",
+    "General/Real Numbers/Commutative Properties.md",
+    "General/Real Numbers/Associative Properties.md",
+    "General/Real Numbers/Real Numbers.md",
+    "Algebra/Factoring.md",
+    "General/General.md",
+    "General/Real Numbers",
+    "General/Real Numbers",
+    "General",
+    "Algebra/Algebra.md",
+    "Algebra"
+  ]
+}

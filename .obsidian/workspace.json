@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Real Numbers/Commutative Properties.md",
+                "file": "General/Real Numbers/Distributive Property.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Real Numbers/Commutative Properties.md",
+                "file": "General/Real Numbers/Distributive Property.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Real Numbers/Commutative Properties.md",
+                "file": "General/Real Numbers/Distributive Property.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Real Numbers/Commutative Properties.md"
+                "file": "General/Real Numbers/Distributive Property.md"
               }
             }
           }
@@ -157,8 +157,8 @@
   },
   "active": "531ef594305a85ba",
   "lastOpenFiles": [
-    "General/Real Numbers/Distributive Property.md",
     "General/Real Numbers/Commutative Properties.md",
+    "General/Real Numbers/Distributive Property.md",
     "General/Real Numbers/Associative Properties.md",
     "General/Real Numbers/Real Numbers.md",
     "Algebra/Factoring.md",

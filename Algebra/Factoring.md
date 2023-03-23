@@ -1,0 +1,1 @@
+Factorization is the opposite of expansion. We can use the [[Distributive Property]] for both these use cases

@@ -5,4 +5,4 @@ A letter that represents any number form a given set of numbers is called a **mo
 To generalize, we can say that a sum of mononomials is a **polynomial**. 
 
 > [!info]
-> A **polynomial** in the variable $x$ is an expression of the form $$
+> A **polynomial** in the variable $x$ is an expression of the form $a_nx^n+a_{n-1x^{n+1}+ \cdots+a_1x+_0_}$

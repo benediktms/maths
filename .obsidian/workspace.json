@@ -11,8 +11,12 @@
             "id": "b32b42f3fcbb5e57",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Algebra/Variables.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algebra/Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algebra/Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algebra/Variables.md"
+              }
             }
           }
         ]
@@ -137,11 +145,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4340fe3ebbf1469a",
+  "active": "b32b42f3fcbb5e57",
   "lastOpenFiles": [
-    "Algebra/Polynomials.md",
-    "Algebra/Algebra.md",
     "Algebra/Factoring.md",
+    "Algebra/Variables.md",
+    "Algebra/Algebra.md",
     "polynomials.md",
     "General/Real Numbers/Distributive Property.md",
     "General/Real Numbers/Commutative Properties.md",

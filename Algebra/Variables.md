@@ -1,0 +1,2 @@
+## Mononomial
+A letter that represents any number form a given set of numbers is called a *mononomial*. A sum of two mononomials is called a *binomial* and a the sum of three mononomials is called a *trinomial*.

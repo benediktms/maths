@@ -1,2 +1,1 @@
 - [[Factoring]]
-- [[polynomials]]

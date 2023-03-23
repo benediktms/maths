@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Algebra/Factoring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8fabb0a23b8dfd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Algebra/Variables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,11 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b32b42f3fcbb5e57",
+  "active": "a8fabb0a23b8dfd1",
   "lastOpenFiles": [
     "Algebra/Factoring.md",
-    "Algebra/Variables.md",
     "Algebra/Algebra.md",
+    "Algebra/Variables.md",
     "polynomials.md",
     "General/Real Numbers/Distributive Property.md",
     "General/Real Numbers/Commutative Properties.md",

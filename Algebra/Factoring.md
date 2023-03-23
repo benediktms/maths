@@ -11,4 +11,4 @@ We can say that $x-2$ and $x+2$ are factors of $x^2-4$
 The easiest way to factor an expression is when we have common terms
 
 > [!terms and factors]
-> When we multiply
+> When we multiply two numbers together, each number is called a factor of the product. When we add two numbers together, each number is called a term of the sum

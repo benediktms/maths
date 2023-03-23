@@ -12,3 +12,6 @@ To generalize, we can say that a sum of monomials is a **polynomial**.
  The degree of a polynomial is the highest power of the variable that appears in the polynomial. For example:
  $$7x^3+5xy^6-12$$
  This trinomial has a degree of 6 because the term $5xy^6$ has the highest power of 6.
+
+### Adding and subtracting Polynomials
+The easiest way to add and subtract polynomials is by grouping **like terms**.

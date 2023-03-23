@@ -138,8 +138,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,18 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "531ef594305a85ba",
+  "active": "70f0b7e6b83260eb",
   "lastOpenFiles": [
-    "General/Real Numbers/Commutative Properties.md",
-    "General/Real Numbers/Distributive Property.md",
-    "General/Real Numbers/Associative Properties.md",
     "General/Real Numbers/Real Numbers.md",
-    "Algebra/Factoring.md",
     "General/General.md",
+    "General/Real Numbers/Associative Properties.md",
+    "General/Real Numbers/Commutative Properties.md",
+    "Algebra/Algebra.md",
+    "General/Real Numbers/Distributive Property.md",
+    "Algebra/Factoring.md",
     "General/Real Numbers",
     "General/Real Numbers",
     "General",
-    "Algebra/Algebra.md",
     "Algebra"
   ]
 }

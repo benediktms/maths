@@ -15,7 +15,7 @@
               "state": {
                 "file": "Algebra/Variables.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "Algebra/Factoring.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },

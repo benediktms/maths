@@ -7,7 +7,7 @@ To generalize, we can say that a sum of monomials is a **polynomial**.
 > [!info]
 > A **polynomial** in the variable $x$ is an expression of the form 
 > $$a_nx^n+a_{n-1}x^{n-1}+ \cdots + a_1x + a_0$$
-> where $a_0$, $a_1, \cdots, a_n$ are real numbers, and $n$ is a nonnegative integer. If $a_n \ne 0$, then the polynomial has **degree $n$**
+> where $a_0$, $a_1, \cdots, a_n$ are real numbers, and $n$ is a non-negative integer. If $a_n \ne 0$, then the polynomial has **degree $n$**
 
  The degree of a polynomial is the highest power of the variable that appears in the polynomial. For example:
  $$7x^3+5xy^6-12$$
@@ -17,3 +17,10 @@ To generalize, we can say that a sum of monomials is a **polynomial**.
 
 The easiest way to add and subtract polynomials is by grouping **like terms** using the [[Distributive Property]], like so:
 $$5x^7+3x^7=(5+3)x^7 = 8x^7$$
+>[!attention]
+>If a - sign precedes any expression then all terms inside the expression become negative:
+>$$-(b+c)=-b-c$$
+
+
+
+

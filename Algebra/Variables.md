@@ -15,4 +15,5 @@ To generalize, we can say that a sum of monomials is a **polynomial**.
 
 ### Adding and subtracting Polynomials
 
-The easiest way to add and subtract polynomials is by grouping **like terms** using the [[Distributive Property]].
+The easiest way to add and subtract polynomials is by grouping **like terms** using the [[Distributive Property]], like so:
+$$5x^7+3x^7=(5+3)x^7 = 8x^7$$

@@ -1,7 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Sanctum",
+  "cssTheme": "Minimal",
   "monospaceFontFamily": "Cascadia Mono PL",
   "textFontFamily": "Georgia",
-  "theme": "moonstone"
+  "theme": "system"
 }

@@ -14,4 +14,5 @@ To generalize, we can say that a sum of monomials is a **polynomial**.
  This trinomial has a degree of 6 because the term $5xy^6$ has the highest power of 6.
 
 ### Adding and subtracting Polynomials
-The easiest way to add and subtract polynomials is by grouping **like terms**.
+
+The easiest way to add and subtract polynomials is by grouping **like terms** using the [[Distributive Property]].

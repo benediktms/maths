@@ -22,12 +22,13 @@ $$ax+2ay = a(x+2y)$$
 > - $x^4$,  $x^3$, and $x$ have the greatest common factor of $x$
 > - $y^2$, $y^3$, and $y^4$ have the greatest common factor of $y$
 
-The greatest common factor of the three terms in the [[Variables & Expressions#Polynomials|polynomial]] is $2xy^2$:
-$$\begin{align}
-& 8x^4y^2+6x^3y^3-2xy^4 \\
-& = (2xy^2)(4x^3)+(2xy^2)(3x^2y)+(2xy^2(-y^2)\\
-& =2xy^2(4x^3+3x^2y-y^2)
-\end{align}$$
+The greatest common factor of the three terms in the [[Variables & Expressions#Polynomials|polynomial]] is $2xy^2$.
+> [!example]
+> $$\begin{align}
+> & 8x^4y^2+6x^3y^3-2xy^4 \\
+> & = (2xy^2)(4x^3)+(2xy^2)(3x^2y)+(2xy^2(-y^2)\\
+> & =2xy^2(4x^3+3x^2y-y^2)
+> \end{align}$$
 
 ## Factoring out a common factor
 
@@ -39,13 +40,15 @@ $$\begin{align}
 
 A lot of the time we will have to find common factors by trial and error. We should always try to find common factors of the **leading coefficient** and the **constant** of a polynomial, and then see how we can apply those factors to get the middle numbers. Assuming that all numbers are integers, this should limit the possibilities.
 
-If we have a situation where in a trinomial the leading coefficient $=1$ then we can simply try to find the factors of the product of the mono and the sum of the monomial:
-$$\begin{align}
-& x^2+7x+12\\
-& = (x+3)(x+4)
-\end{align}$$
+If we have a situation where in a trinomial the leading coefficient $=1$ then we can simply try to find the factors of the product of the constant and the sum of the monomial.
+>[!example]
+>$$\begin{align}
+>& x^2+7x+12\\
+>& = (x+3)(x+4)
+>\end{align}$$
+>The common factors in this expression that multiply to give the product $12$ and the sum $7$ are $3$ and $4$.
 
-The mathematical formula for this is as follows, assuming the leading coefficient, $a\ne1$:
+If the leading coefficient, $a\ne1$ then we must apply the following:
 $$\begin{align}
 ax^2+bx+c &= (px+r)(qx+s)\\
 &=pqx^2+(ps+qr)+rs

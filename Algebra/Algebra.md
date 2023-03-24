@@ -1,2 +1,2 @@
 - [[Factoring]]
-- [[Variables]]
+- [[Variables & Expressions]]

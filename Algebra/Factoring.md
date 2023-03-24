@@ -23,7 +23,7 @@ $$8x^4y^2+6x^3y^3-2xy^4$$
 - $x^4$,  $x^3$, and $x$ have the greatest common factor of $x$
 - $y^2$, $y^3$, and $y^4$ have the greatest common factor of $y$
 
-The greatest common factor of the three terms in the [[Variables#Polynomials|polynomial]] is $2xy^2$:
+The greatest common factor of the three terms in the [[Variables & Expressions#Polynomials|polynomial]] is $2xy^2$:
 $$\begin{align}
 & 8x^4y^2+6x^3y^3-2xy^4 \\
 & = (2xy^2)(4x^3)+(2xy^2)(3x^2y)+(2xy^2(-y^2)\\

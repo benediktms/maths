@@ -38,5 +38,11 @@ When we multiply trinomials or polynomials with more terms we once again have to
 $$\begin{align}
 &(2x+3)(x^2-5x+4)\\
 &=2x(x^2-5x+4)+3(x^2-5x+4)\\
-&
+&=(2x\cdot x^2-2x\cdot 5x+2x\cdot 4)+(3\cdot x^2-3\cdot 5x+3\cdot 4)\\
+&=(2x^3-10x^2+8x)+(3x^2-15x+12)\\
+&=2x^3-7x^2-7x+12
 \end{align}$$
+
+## Special Product Formula
+
+There are certain types of products that are very common so it is beneficial to memorize them.

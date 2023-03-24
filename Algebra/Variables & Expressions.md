@@ -51,4 +51,8 @@ There are certain types of products that are very common so it is beneficial to 
 > 2. $(A+B)^2 = A^2+AB+B^2$
 > 3. $(A-B)^2 = A^2-2AB+B^2$
 > 4. $(A+B)^3 = A^3+3A^2B+3AB^2+B^3$
-> 5. $(A-B)^3$
+> 5. $(A-B)^3 = A^3-3A^2B+3AB^2-B^3$
+
+### Example
+Here we can use the **
+$$(x^2+y^3)^2 = (x^2)^2+2(x^2)(y^3)+(y^3)^2$$

@@ -17,7 +17,27 @@
                 "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "9c93bac609c02034"
+          }
+        ]
+      },
+      {
+        "id": "68f719b552624661",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69ac92bf94fbe7c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra/Factoring.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "9c93bac609c02034"
           }
         ]
       }

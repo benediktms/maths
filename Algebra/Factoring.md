@@ -48,6 +48,9 @@ Where we should try to find numbers $p$, $q$, $r$, and $s$ such that $pq=a$, $rs
 
 > [!example]
 > $$6x^2+7x-5$$
-> We can factor $6$ as $6\cdot1$ or $3\cdot2$ and can factor $-5$ as $-5\cdot1$ or $5\cdot(-1)$. With some trial and error we can arrive at the following:
+> We can factor $6$ as $6\cdot1$ or $3\cdot2$ and can factor $-5$ as $-5\cdot1$ or $5\cdot(-1)$. With some trial and error, we can arrive at the following:
 > $$6x^2+7x-5 = (3x+5)(2x-1)$$
 
+## Factoring by grouping
+
+Sometimes we will not have a common factor. In these scenarios, we must change the middle term to meet the requirements by substituting it for an expre

@@ -28,3 +28,6 @@ $$
 &= (x^3-x^3)+(-6x^2-5x^2)+(2x+7x)+4
 \end{align}
 $$
+
+### Multiplying algebraic expressions
+When we need the **product** of the [[Factoring#Common factors|terms]] in a polynomial expression, we need to multiply each 

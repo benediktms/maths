@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Algebra/Factoring.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -26,12 +26,13 @@
               "type": "markdown",
               "state": {
                 "file": "Algebra/Variables.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Factoring.md",
+                "file": "Algebra/Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Factoring.md",
+                "file": "Algebra/Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Factoring.md"
+                "file": "Algebra/Variables.md"
               }
             }
           }
@@ -158,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8fabb0a23b8dfd1",
+  "active": "11dab38c73b609d1",
   "lastOpenFiles": [
-    "Algebra/Variables.md",
     "Algebra/Factoring.md",
+    "Algebra/Variables.md",
     "General/Real Numbers/Real Numbers.md",
     "General/Real Numbers/Distributive Property.md",
     "General/Real Numbers/Commutative Properties.md",

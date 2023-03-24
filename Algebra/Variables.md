@@ -30,4 +30,9 @@ $$
 $$
 
 ### Multiplying algebraic expressions
-When we need the **product** of the [[Factoring#Common factors|terms]] in a polynomial expression, we need to multiply each 
+
+When we need the **product** of the [[Factoring#Common factors|factors]] in a polynomial expression, we need to multiply each **term** in one factor by each term in the other factor(s). When multiplying a binomial, for example:
+$$(a+b)(c+d)=ac+ad+bc+bd$$
+
+When we multiply trinomials or polynomials with more terms we once again have to use the Distributive Property:
+$$$$

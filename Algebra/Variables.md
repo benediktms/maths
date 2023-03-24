@@ -17,13 +17,14 @@ To generalize, we can say that a sum of monomials is a **polynomial**.
 
 The easiest way to add and subtract polynomials is by grouping **like terms** using the [[Distributive Property]], like so:
 $$5x^7+3x^7=(5+3)x^7 = 8x^7$$
->[!attention]
->If a - sign precedes any expression then all terms inside the expression become negative:
->$$-(b+c)=-b-c$$
+If a - sign precedes any expression then all terms inside the expression become negative:
+$$-(b+c)=-b-c$$
 
 #### Example
-$$\begin{align}
-(x^3-6x^2+2x+4)-(x^3+5x^2-7x)\\
-= x^3-6x+2x+4-x^3-5x^2+7x\\
-= (x^3-x^3)+(-6x^2-5x^2)+(2x+7x)+4
+$$
+\begin{align}
+&(x^3-6x^2+2x+4)-(x^3+5x^2-7x)\\
+&= x^3-6x+2x+4-x^3-5x^2+7x\\
+&= (x^3-x^3)+(-6x^2-5x^2)+(2x+7x)+4
+\end{align}
 $$

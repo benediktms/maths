@@ -46,6 +46,12 @@ ax^2+bx+c &= (px+r)(qx+s)\\
 \end{align}$$
 Where we should try to find numbers $p$, $q$, $r$, and $s$ such that $pq=a$, $rs=c$, $ps+qr=b$.
 
+If we have a similar situation where in a trinomial the **leading coefficient** $=1$ then we can simply skip it and try to find the product of the constant and the sum of the monomial:
+$$\begin{align}
+& x^2+7x+12\\
+& = (x+3)(x+4)
+\end{align}$$
+
 > [!example]
 > $$6x^2+7x-5$$
 > We can factor $6$ as $6\cdot1$ or $3\cdot2$ and can factor $-5$ as $-5\cdot1$ or $5\cdot(-1)$. With some trial and error, we can arrive at the following:

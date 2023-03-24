@@ -45,7 +45,7 @@ $$\begin{align}
 
 ## Special Product Formula
 
-There are certain types of products that are very common so it is beneficial to memorize them.
+There are certain types of products that are very common, so it is beneficial to memorize them.
 > [!rule]
 > 1. $(A+B) = A^2-B^2$
 > 2. $(A+B)^2 = A^2+AB+B^2$
@@ -54,5 +54,6 @@ There are certain types of products that are very common so it is beneficial to 
 > 5. $(A-B)^3 = A^3-3A^2B+3AB^2-B^3$
 
 ### Example
-Here we can use the **
+Here we can use the **Law of Substitution** to apply Product Formula 2 to substitute $x^2$ for $A$ and $y^3$ for $B$:
 $$(x^2+y^3)^2 = (x^2)^2+2(x^2)(y^3)+(y^3)^2$$
+

@@ -29,3 +29,7 @@ $$\begin{align}
 & = (2xy^2)(4x^3)+(2xy^2)(3x^2y)+(2xy^2(-y^2)\\
 & =2xy^2(4x^3+3x^2y-y^2)
 \end{align}$$
+
+
+When two terms have a common factor we can use the Distributive property so simplify the expression:
+$$(2x+4)(x-3)-5(x-3)$$

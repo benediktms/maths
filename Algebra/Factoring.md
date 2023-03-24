@@ -21,9 +21,8 @@ $$ax+2ay = a(x+2y)$$
 > - 8, 6 and -2 have the greatest common factor of 2
 > - $x^4$,  $x^3$, and $x$ have the greatest common factor of $x$
 > - $y^2$, $y^3$, and $y^4$ have the greatest common factor of $y$
-
-The greatest common factor of the three terms in the [[Variables & Expressions#Polynomials|polynomial]] is $2xy^2$.
-> [!example]
+> 
+> The greatest common factor of the three terms in the [[Variables & Expressions#Polynomials|polynomial]] is $2xy^2$.
 > $$\begin{align}
 > & 8x^4y^2+6x^3y^3-2xy^4 \\
 > & = (2xy^2)(4x^3)+(2xy^2)(3x^2y)+(2xy^2(-y^2)\\
@@ -74,3 +73,7 @@ $$\begin{align}
 &= 3x(x-5)-(x-5)\\
 &= (3x-1)(x-5)
 \end{align}$$
+
+> [!note]
+> Notice that on the second step, we can already see the common factor of $(x-5)$. This is a good indicator that we are on the right track.
+

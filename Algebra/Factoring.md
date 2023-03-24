@@ -37,7 +37,7 @@ $$\begin{align}
 &=(2x-1)(x-3)
 \end{align}$$
 
-A lot of the time we will have to find common factors by trial and error. We should always try to find common factors in the first number (assuming it is $\ne1$) and the last number of a polynomial, and then see how we can apply those factors to get the middle numbers. Assuming that all numbers are integers, this should limit the possibilities.
+A lot of the time we will have to find common factors by trial and error. We should always try to find common factors in the first number and the last number of a polynomial, and then see how we can apply those factors to get the middle numbers. Assuming that all numbers are integers, this should limit the possibilities.
 
 The mathematical formula for this is as follows, assuming $a\ne1$:
 $$\begin{align}
@@ -48,6 +48,6 @@ Where we should try to find numbers $p$, $q$, $r$, and $s$ such that $pq=a$, $rs
 
 > [!example]
 > $$6x^2+7x-5$$
-> We can factor $6$ as $6\cdot1$ or $3\cdot2$ and can factor $-5$ as $-5\cdot1$ or $5\cdot(-1)$:
+> We can factor $6$ as $6\cdot1$ or $3\cdot2$ and can factor $-5$ as $-5\cdot1$ or $5\cdot(-1)$. With some trial and error we can arrive at the following:
 > $$6x^2+7x-5 = (3x+5)(2x-1)$$
 

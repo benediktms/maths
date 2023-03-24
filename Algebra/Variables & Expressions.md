@@ -29,7 +29,7 @@ $$
 \end{align}
 $$
 
-### Multiplying algebraic expressions
+### Multiplying Polynomials
 
 When we need the **product** of the [[Factoring#Common factors|factors]] in a polynomial expression, we need to multiply each **term** in one factor by each term in the other factor(s). When multiplying a binomial, for example:
 $$(a+b)(c+d)=ac+ad+bc+bd$$
@@ -46,3 +46,9 @@ $$\begin{align}
 ## Special Product Formula
 
 There are certain types of products that are very common so it is beneficial to memorize them.
+> [!rule]
+> 1. $(A+B) = A^2-B^2$
+> 2. $(A+B)^2 = A^2+AB+B^2$
+> 3. $(A-B)^2 = A^2-2AB+B^2$
+> 4. $(A+B)^3 = A^3+3A^2B+3AB^2+B^3$
+> 5. $(A-B)^3$

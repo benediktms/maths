@@ -9,20 +9,18 @@ We can say that $x-2$ and $x+2$ are factors of $x^2-4$
 
 The easiest way to factor an expression is when we have common terms. Therefore, when we need to factorize an expression, we need to find the greatest common factor of all the terms.
 
-> [!terms and factors]
-> When we multiply two numbers together, each number is called a **factor** of the product. When we add two numbers together, each number is called a **term** of the sum.
-> 
-> If a factor is common to each term of an expression we can factor it out. For example
-> $$ax+2ay$$
-> Each term contains the factor $a$ so we can write the expression as:
-> $$ax+2ay = a(x+2y)$$
+When we multiply two numbers together, each number is called a **factor** of the product. When we add two numbers together, each number is called a **term** of the sum.
+ 
+If a factor is common to each term of an expression we can factor it out. For example
+$$ax+2ay$$
+Each term contains the factor $a$ so we can write the expression as:
+$$ax+2ay = a(x+2y)$$
 
-### Example
-
-$$8x^4y^2+6x^3y^3-2xy^4$$
-- 8, 6 and -2 have the greatest common factor of 2
-- $x^4$,  $x^3$, and $x$ have the greatest common factor of $x$
-- $y^2$, $y^3$, and $y^4$ have the greatest common factor of $y$
+> [!example]
+> $$8x^4y^2+6x^3y^3-2xy^4$$
+> - 8, 6 and -2 have the greatest common factor of 2
+> - $x^4$,  $x^3$, and $x$ have the greatest common factor of $x$
+> - $y^2$, $y^3$, and $y^4$ have the greatest common factor of $y$
 
 The greatest common factor of the three terms in the [[Variables & Expressions#Polynomials|polynomial]] is $2xy^2$:
 $$\begin{align}
@@ -41,16 +39,15 @@ $$\begin{align}
 
 A lot of the time we will have to find common factors by trial and error. We should always try to find common factors in the first number (assuming it is $\ne1$) and the last number of a polynomial, and then see how we can apply those factors to get the middle numbers. Assuming that all numbers are integers, this should limit the possibilities.
 
->[!info]
->The mathematical formula for the above is as follows, assuming $a\ne1$:
->$$\begin{align}
->ax^2+bx+c &= (px+r)(qx+s)\\
->&=pqx^2+(ps+qr)+rs
->\end{align}$$
->Where we should try to find numbers $p$, $q$, $r$, and $s$ such that $pq=a$, $rs=c$, $ps+qr=b$.
+The mathematical formula for this is as follows, assuming $a\ne1$:
+$$\begin{align}
+ax^2+bx+c &= (px+r)(qx+s)\\
+&=pqx^2+(ps+qr)+rs
+\end{align}$$
+Where we should try to find numbers $p$, $q$, $r$, and $s$ such that $pq=a$, $rs=c$, $ps+qr=b$.
 
-### Example
+> [!example]
+> $$6x^2+7x-5$$
+> We can factor $6$ as $6\cdot1$ or $3\cdot2$ and can factor $-5$ as $-5\cdot1$ or $5\cdot(-1)$:
+> $$6x^2+7x-5 = (3x+5)(2x-1)$$
 
-$$6x^2+7x-5$$
-We can factor $6$ as $6\cdot1$ or $3\cdot2$ and can factor $-5$ as $-5\cdot1$ or $5\cdot(-1)$:
-$$6x^2+7x-5 = (3x+5)(2x-1)$$

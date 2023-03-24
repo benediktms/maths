@@ -37,4 +37,13 @@ $$\begin{align}
 &=(2x-1)(x-3)
 \end{align}$$
 
-A lot of the time we will have to find common factors by trial and error. We should always try to find common factors in the first number (assuming it is $\ne1$) and the last number of a polynomial, and then see how we can apply those factors to get the middle numbers.
+A lot of the time we will have to find common factors by trial and error. We should always try to find common factors in the first number (assuming it is $\ne1$) and the last number of a polynomial, and then see how we can apply those factors to get the middle numbers. Assuming that all numbers are integers, this should limit the possibilities.
+
+>[!info]
+>The mathematical formula for the above is as follows, assuming $a\ne1$:
+>$$\begin{align}
+>ax^2+bx+c &= (px+r)(qx+s)\\
+>&=pqx^2+(ps+qr)+rs
+>\end{align}$$
+>Where we should try to find numbers $p$, q, r, and  
+

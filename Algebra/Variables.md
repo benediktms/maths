@@ -35,4 +35,8 @@ When we need the **product** of the [[Factoring#Common factors|factors]] in a po
 $$(a+b)(c+d)=ac+ad+bc+bd$$
 
 When we multiply trinomials or polynomials with more terms we once again have to use the Distributive Property:
-$$$$
+$$\begin{align}
+&(2x+3)(x^2-5x+4)\\
+&=2x(x^2-5x+4)+3(x^2-5x+4)\\
+&
+\end{align}$$

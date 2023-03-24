@@ -37,4 +37,4 @@ $$\begin{align}
 &=(2x-1)(x-3)
 \end{align}$$
 
-A lot of the time we will have to find common factors by trial and error. We should always try to find common terms in the first term and the last term of a polynomial and then see how we can apply those factors to get the middle terms.
+A lot of the time we will have to find common factors by trial and error. We should always try to find common factors in the first number and the last number of a polynomial, and then see how we can apply those factors to get the middle numbers.

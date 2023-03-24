@@ -18,6 +18,7 @@ The easiest way to factor an expression is when we have common terms. Therefore,
 > $$ax+2ay = a(x+2y)$$
 
 ### Example
+
 $$8x^4y^2+6x^3y^3-2xy^4$$
 - 8, 6 and -2 have the greatest common factor of 2
 - $x^4$,  $x^3$, and $x$ have the greatest common factor of $x$
@@ -30,6 +31,7 @@ $$\begin{align}
 & =2xy^2(4x^3+3x^2y-y^2)
 \end{align}$$
 
+## Factoring out a common factor
 
 When two terms have a common factor we can use the Distributive property so simplify the expression:
 $$\begin{align}
@@ -45,5 +47,10 @@ A lot of the time we will have to find common factors by trial and error. We sho
 >ax^2+bx+c &= (px+r)(qx+s)\\
 >&=pqx^2+(ps+qr)+rs
 >\end{align}$$
->Where we should try to find numbers $p$, q, r, and  
+>Where we should try to find numbers $p$, $q$, $r$, and $s$ such that $pq=a$, $rs=c$, $ps+qr=b$.
 
+### Example
+
+$$6x^2+7x-5$$
+We can factor $6$ as $6\cdot1$ or $3\cdot2$ and can factor $-5$ as $-5\cdot1$ or $5\cdot(-1)$:
+$$6x^2+7x-5 = (3x+5)(2x-1)$$

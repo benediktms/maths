@@ -53,4 +53,9 @@ Where we should try to find numbers $p$, $q$, $r$, and $s$ such that $pq=a$, $rs
 
 ## Factoring by grouping
 
-Sometimes we will not have a common factor. In these scenarios, we must change the middle term to meet the requirements by substituting it for an expre
+Sometimes we will not have a common factor. In these scenarios, we must change the middle term to meet the requirements by substituting it for an expression that results in the same value, but that we can factor by.
+$$\begin{align}
+3x^2-16x+5
+\end{align}$$
+This expression does not have any common factors, where the product equals $5$ and the sum equals $-16$. We can solve this by multiplying the leading **coefficient** by the constant term:
+$$x\$$

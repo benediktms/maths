@@ -32,4 +32,9 @@ $$\begin{align}
 
 
 When two terms have a common factor we can use the Distributive property so simplify the expression:
-$$(2x+4)(x-3)-5(x-3)$$
+$$\begin{align}
+(2x+4)(x-3)-5(x-3) &=[(2x+4)-5](x-3)\\
+&=(2x-1)(x-3)
+\end{align}$$
+
+A lot of the time we will have to find common factors by trial and error.

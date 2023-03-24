@@ -67,7 +67,7 @@ Sometimes we will not have a common factor. In these scenarios, we must change t
 $$3x^2-16x+5$$
 This expression does not have any common factors, where the product equals $5$ and the sum equals $-16$. We can solve this by multiplying the leading coefficient by the constant term:
 $$3\cdot5 =15$$
-We can use this new number to find a common factor between $3$ and -$16$ and re-write our expression:
+We can use this new number to find a common factor between $3$ and -$16$ and re-write our expression (of course, using the Distributive Property once more):
 $$\begin{align}
 & 3x^2-15x-x+5\\
 &= 3x(x-5)-(x-5)\\

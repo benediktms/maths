@@ -77,3 +77,5 @@ $$\begin{align}
 > [!note]
 > Notice that on the second step, we can already see the common factor of $(x-5)$. This is a good indicator that we are on the right track.
 
+## Recognizing the Form of an expression
+

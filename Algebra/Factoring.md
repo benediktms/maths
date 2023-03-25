@@ -75,7 +75,7 @@ $$\begin{align}
 \end{align}$$
 
 > [!note]
-> Notice that on the second step, we can already see the common factor of $(x-5)$. This is a good indicator that we are on the right track.
+> Notice that on the second step, we can already see the common factor of $(x-5)$. This is a good indicator that we are on the right track. Additionally, the $-1$ comes from the $-(x-5)$ which is the same as $-1(x-5)$
 
 ## Recognizing the Form of an expression
 

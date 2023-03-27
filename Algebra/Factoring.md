@@ -95,4 +95,13 @@ We can see that this is essentially the same as the first expression we had.
 
 ## Special Factoring Formulas
 
-Some special agebraic formulas can be factored using the following formulas (notice that the )
+Some special algebraic formulas can be factored using the following formulas (notice that the first three are simply the [[Variables & Expressions#Special Product Formula|Special Product Formula]] written backwards):
+> [!rule]
+> 1. $A^2-B^2 = (A-B)(A+B)$
+> 2. $A^2+2AB+B^2=(A+B)^2$
+> 3. $A^2-2AB+B^2=(A-B)^2$
+> 4. $A^3-B^3=(A-B)(A^2+AB+B^2)$
+> 5. $A^3+B^3=(A+B)(A^2-AB+B^2)$
+
+$$\begin()
+$$

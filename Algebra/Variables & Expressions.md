@@ -47,13 +47,13 @@ $$\begin{align}
 
 There are certain types of products that are very common, so it is beneficial to memorize them.
 > [!rule]
-> > $$\begin{align}
-> 1. &(A+B) = A^2-B^2 &\text{text}\\
-> 2. &(A+B)^2 = A^2+AB+B^2 &\text{text}\\
-> 3. &(A-B)^2 = A^2-2AB+B^2 &\text{text}\\
-> 4. &(A+B)^3 = A^3+3A^2B+3AB^2+B^3 &\text{text}\\
-> 5. &(A-B)^3 = A^3-3A^2B+3AB^2-B^3 &\text{text}\\
-\end{align}$$
+>  $$\begin{align}
+> 1. &\space (A+B) = A^2-B^2 &\text{Sum and difference of same terms}\\
+> 2. &\space (A+B)^2 = A^2+AB+B^2 &\text{Square of a sum}\\
+> 3. &\space (A-B)^2 = A^2-2AB+B^2 &\text{Square of a difference}\\
+> 4. &\space (A+B)^3 = A^3+3A^2B+3AB^2+B^3 &\text{Cube of a sum}\\
+> 5. &\space (A-B)^3 = A^3-3A^2B+3AB^2-B^3 &\text{Cube of a difference}\\
+> \end{align}$$
 
 ### Example
 Here we can use the **Law of Substitution** to apply Product Formula 2 to substitute $x^2$ for $A$ and $y^3$ for $B$:

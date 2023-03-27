@@ -98,9 +98,10 @@ We can see that this is essentially the same as the first expression we had.
 Some special algebraic formulas can be factored using the following formulas (notice that the first three are simply the [[Variables & Expressions#Special Product Formula|Special Product Formula]] written backwards):
 > [!rule]
 > $$\begin{align}
-> 1. &A^2-B^2 = (A-B)(A+B) &\text{Difference of squares}\\
-> 2. &A^2+2AB+B^2=(A+B)^2 &\text{Perfect square}\\
-> 3. &A^2-2AB+B^2=(A-B)^2 &\text{Perfect square}\\
-> 4. &A^3-B^3=(A-B)(A^2+AB+B^2) &\text{Difference of cubes}\\
-> 5. &A^3+B^3=(A+B)(A^2-AB+B^2) &\text{Sum of cubes}\\
+> 1. &\space A^2-B^2 = (A-B)(A+B) &\text{Difference of squares}\\
+> 2. &\space A^2+2AB+B^2=(A+B)^2 &\text{Perfect square}\\
+> 3. &\space A^2-2AB+B^2=(A-B)^2 &\text{Perfect square}\\
+> 4. &\space A^3-B^3=(A-B)(A^2+AB+B^2) &\text{Difference of cubes}\\
+> 5. &\space A^3+B^3=(A+B)(A^2-AB+B^2) &\text{Sum of cubes}\\
 > \end{align}$$
+

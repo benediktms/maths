@@ -4,5 +4,6 @@
   "spellcheckDictionary": [
     "trinomials",
     "Trinomials"
-  ]
+  ],
+  "readableLineLength": true
 }

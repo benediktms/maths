@@ -85,5 +85,14 @@ $$\begin{align}
 
 ## Recognizing the Form of an expression
 
-Sometimes an expression can be drastically simplified if we can correctly recognize the form of an expression, even though it may appear more complex to begin with. Let's take a ver basic trinomial:
-$$x^2
+Sometimes an expression can be drastically simplified if we can correctly recognize the form of an expression, even though it may appear more complex to begin with. Let's take a very basic trinomial:
+$$x^2-2x-3$$
+We can solve this through some very simple trial and error. However, if we take a slightly more complex expression:
+$$(5a+1)^2-2(5a+1)-3$$
+While this expression may look more complicated to begin with if we substitute $(5a+1)$ with $A$:
+$$A^2-2A-3$$
+We can see that this is essentially the same as the first expression we had.
+
+## Special Factoring Formulas
+
+Some special agebraic formulas can be factored using the following formulas (notice that the )

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Real Numbers/Distributive Property.md",
+                "file": "Algebra/Variables & Expressions.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,13 +77,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f9f10bdde7a0c818",
@@ -162,13 +160,13 @@
   },
   "active": "f7bc586cea569910",
   "lastOpenFiles": [
+    "Algebra/Variables & Expressions.md",
+    "Algebra/Algebra.md",
     "General/Real Numbers/Distributive Property.md",
     "Algebra/Factoring.md",
-    "Algebra/Variables & Expressions.md",
     "General/Real Numbers/Real Numbers.md",
     "General/Real Numbers/Commutative Properties.md",
     "General/Real Numbers/Associative Properties.md",
-    "Algebra/Algebra.md",
     "polynomials.md",
     "General/General.md",
     "General/Real Numbers",

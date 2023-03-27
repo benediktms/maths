@@ -91,7 +91,11 @@ We can solve this through some very simple trial and error. However, if we take 
 $$(5a+1)^2-2(5a+1)-3$$
 While this expression may look more complicated to begin with if we substitute $(5a+1)$ with $A$:
 $$A^2-2A-3$$
-We can see that this is essentially the same as the first expression we had.
+We can see that this is essentially the same as the first expression we had and we can factor it as:
+$$\begin{align}
+(5a+1)^2-2(5a+1)-3&=[(5a+1)-3][(5a+1)+1]\\
+&=(5a-2)(5a+2)
+\end{align}$$
 
 ## Special Factoring Formulas
 

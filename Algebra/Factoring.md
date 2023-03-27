@@ -5,6 +5,9 @@ $$x^2-4=(x-2)(x+2)$$
 
 We can say that $x-2$ and $x+2$ are factors of $x^2-4$
 
+## Factoring Trinomials
+When factoring an expression we have to 
+
 ## Common factors
 
 The easiest way to factor an expression is when we have common terms. Therefore, when we need to factorize an expression, we need to find the greatest common factor of all the terms.

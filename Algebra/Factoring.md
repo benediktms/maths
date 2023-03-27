@@ -6,7 +6,10 @@ $$x^2-4=(x-2)(x+2)$$
 We can say that $x-2$ and $x+2$ are factors of $x^2-4$
 
 ## Factoring Trinomials
-When factoring an expression we have to 
+
+When factoring a trinomial in the form of $x^2+bx+c$ we note that
+$$(x+r)(x+s)=x^2+(r+s)x +rs$$
+so we need to choose numbers $r$ and $s$ so that $r+s=b$ and $rs=c$
 
 ## Common factors
 

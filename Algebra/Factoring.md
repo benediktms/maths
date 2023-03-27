@@ -85,4 +85,5 @@ $$\begin{align}
 
 ## Recognizing the Form of an expression
 
-Sometimes an expression can be drastically simplified if we
+Sometimes an expression can be drastically simplified if we can correctly recognize the form of an expression, even though it may appear more complex to begin with. Let's take a ver basic trinomial:
+$$x^2

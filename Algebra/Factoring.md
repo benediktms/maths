@@ -79,3 +79,4 @@ $$\begin{align}
 
 ## Recognizing the Form of an expression
 
+Sometimes an expression can be drastically simplified if we

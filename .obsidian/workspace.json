@@ -26,12 +26,13 @@
               "type": "markdown",
               "state": {
                 "file": "Algebra/Variables & Expressions.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Factoring.md",
+                "file": "Algebra/Variables & Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Factoring.md",
+                "file": "Algebra/Variables & Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Factoring.md"
+                "file": "Algebra/Variables & Expressions.md"
               }
             }
           }
@@ -158,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7bc586cea569910",
+  "active": "7738beeaaaea8795",
   "lastOpenFiles": [
     "Algebra/Factoring.md",
     "Algebra/Variables & Expressions.md",

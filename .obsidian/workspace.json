@@ -18,33 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "7738beeaaaea8795",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra/Variables & Expressions.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b57e07a5c8df484d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Real Numbers/Real Numbers.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Real Numbers/Real Numbers.md",
+                "file": "Algebra/Factoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Real Numbers/Real Numbers.md",
+                "file": "Algebra/Factoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Real Numbers/Real Numbers.md"
+                "file": "Algebra/Factoring.md"
               }
             }
           }
@@ -171,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b57e07a5c8df484d",
+  "active": "f7bc586cea569910",
   "lastOpenFiles": [
-    "General/Real Numbers/Commutative Properties.md",
-    "General/Real Numbers/Real Numbers.md",
-    "General/Real Numbers/Associative Properties.md",
-    "General/Real Numbers/Distributive Property.md",
-    "Algebra/Factoring.md",
     "Algebra/Variables & Expressions.md",
-    "Algebra/Algebra.md",
-    "polynomials.md",
+    "Algebra/Factoring.md",
     "General/General.md",
+    "Algebra/Algebra.md",
+    "General/Real Numbers.md",
+    "General/Real Numbers/Distributive Property.md",
+    "General/Real Numbers/Commutative Properties.md",
+    "General/Real Numbers/Associative Properties.md",
+    "polynomials.md",
     "General/Real Numbers",
     "General/Real Numbers",
     "General",

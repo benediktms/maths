@@ -3,3 +3,8 @@ $$\frac{x^3-x}{x^2-5x+6}$$
 However this is not:
 $$\frac{x}{\sqrt{x^2+1}}$$
 because the denominator is a [[Radicals|radical]].
+
+## Simplifying rational expressions
+
+We can simplify rational expressions by [[Factoring|factoring]] the numerator and denominator and using the following property of fractions:
+$$\frac{AC}{BC}=\frac AB$$

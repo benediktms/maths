@@ -24,5 +24,6 @@ $$a^{1/n}=\sqrt[n]{a}$$
 
 ## Radical Exponents
 > [!definition]
-> For any rational exponent $m/n$ in lowest terms, where $m$ and $n$ are integers and $n>0$, we define
-> $$a^{m/n}=(\sqrt[n]{a})^m$$
+> For any rational exponent $m/n$ in the lowest terms, where $m$ and $n$ are integers and $n>0$, we define
+> $$a^{m/n}=(\sqrt[n]{a})^m \space \text{or equally}\space a^{m/n}=\sqrt[n]{a^m}$$
+> This can be proved by the [[Exponential Notation#Laws of Exponents|Laws of Exponents]] and also applies to rational exponents.

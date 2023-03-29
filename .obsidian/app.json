@@ -5,5 +5,6 @@
     "trinomials",
     "Trinomials"
   ],
-  "readableLineLength": true
+  "readableLineLength": true,
+  "strictLineBreaks": false
 }

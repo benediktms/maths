@@ -15,7 +15,8 @@ Assuming bases $a$ and $b$ are real numbers, and  exponents $m$ and $n$ are inte
 
 >[!rule]
 >$$\begin{align}
->& \text{Law} &\text{Example}\\
->1. &\space a^ma^n=a^{m+n} &3^2\cdot3^5=3^{2+5}=3^7\\
->2. &\space \frac{a^m}{a^n}=a^{m-n} &\frac{3^5}{3^2}=3^{5-2}=3^3
+>&\text{Law} &\text{Example}\\
+>1.&\space a^ma^n=a^{m+n} &3^2\cdot3^5=3^{2+5}=3^7\\
+>2.&\space \frac{a^m}{a^n}=a^{m-n} &\frac{3^5}{3^2}=3^{5-2}=3^3\\
+>3.&\space (a^m)^n=a^{mn} &he
 >\end{align}$$

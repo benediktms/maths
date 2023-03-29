@@ -8,3 +8,7 @@ because the denominator is a [[Radicals|radical]].
 
 We can simplify rational expressions by [[Factoring|factoring]] the numerator and denominator and using the following property of fractions:
 $$\frac{AC}{BC}=\frac AB$$
+which allows us to **cancel** common factors.
+
+>[!example]
+>$$\frac$$

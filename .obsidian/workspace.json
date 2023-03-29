@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Algebra/Rational Expressions.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -44,8 +44,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "8f478979a087bd8f",
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Exponential Notation.md",
+                "file": "Algebra/Rational Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Exponential Notation.md",
+                "file": "Algebra/Rational Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Exponential Notation.md"
+                "file": "Algebra/Rational Expressions.md"
               }
             }
           }
@@ -187,10 +186,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce9f0f64c0c726b7",
+  "active": "f5513144ebbabc0d",
   "lastOpenFiles": [
-    "Algebra/Factoring.md",
     "General/Exponential Notation.md",
+    "Algebra/Factoring.md",
     "Algebra/Rational Expressions.md",
     "General/Radicals.md",
     "Algebra/Variables & Expressions.md",

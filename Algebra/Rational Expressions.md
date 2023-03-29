@@ -16,4 +16,4 @@ which allows us to **cancel** common factors.
 >=\space &\frac{(x-1)(x+1)}{(x-1)(x+2)}\space=\space \frac{\cancel{\color{red}{(x-1)}}(x+1)}{\cancel{\color{red}{(x-1)}}(x+2)}\\[2ex]
 >=\space &\frac{x+1}{x+2}
 >\end{align}$$
->Here we can cancel the common factors of the expression once we have factored it.
+>Here we can cancel the common factors of the expression once we have factored it. The same rule 

@@ -4,8 +4,11 @@ If $a$ is a [[Real Numbers|real number]]  and $n$ is a positive integer, then th
 $$a^n=a\cdot a\cdot \cdots \cdot a$$
 The number $a$ is called the **base**, and $n$ us called the **exponent**.
 
-If $a\neq0$ is a real number and $n$ is a positive intiger, then
-$$a^0-$$
+If $a\neq0$ is a real number and $n$ is a positive integer, then
+$$a^0=1 \space \text{and}\space a^{-n}=\frac{1}{a^n}$$
+
+>[!example]
+>$(-2)^{-3}=\frac{1}{(-2)^3}=\frac{1}{-8}=-\frac{1}{8}$
 
 ## Laws of Exponents
 Assuming bases $a$ and $b$ are real numbers, and  exponents $m$ and $n$ are integers, these are the laws of exponents:

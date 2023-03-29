@@ -45,7 +45,7 @@ $$\begin{align}
 
 A lot of the time we will have to find common factors by trial and error. We should always try to find common factors of the **leading coefficient** and the **constant** of a polynomial, and then see how we can apply those factors to get the middle coefficient. Assuming that all numbers are integers, this should limit the possibilities.
 
-If we have a situation where in a trinomial the leading coefficient $=1$ then we can simply try to find the factors of the product of the constant and the sum of the monomial.
+If we have a situation where in a trinomial the leading coefficient $=1$ then we can simply try to find the factors of the product of the constant and the sum of the middle coefficient.
 >[!example]
 >$$\begin{align}
 >& x^2+7x+12\\

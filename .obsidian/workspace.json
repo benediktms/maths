@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "95b388844f6f231f",
+        "id": "1551f4a51f0764ad",
         "type": "tabs",
         "children": [
           {
-            "id": "c79e10f9d6ca0c2a",
+            "id": "52092e4a2d25a8cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Exponential Notation.md",
+                "file": "General/Radicals.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Exponential Notation.md",
+                "file": "General/Radicals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Exponential Notation.md",
+                "file": "General/Radicals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Exponential Notation.md"
+                "file": "General/Radicals.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c79e10f9d6ca0c2a",
+  "active": "52092e4a2d25a8cf",
   "lastOpenFiles": [
-    "Algebra/Variables & Expressions.md",
-    "General/Exponential Notation.md",
-    "Algebra/Factoring.md",
     "General/General.md",
+    "General/Radicals.md",
+    "General/Exponential Notation.md",
+    "Algebra/Variables & Expressions.md",
+    "Algebra/Factoring.md",
     "General/Real Numbers.md",
     "Icon\r",
     "Algebra/Algebra.md",

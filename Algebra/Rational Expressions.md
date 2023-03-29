@@ -11,4 +11,8 @@ $$\frac{AC}{BC}=\frac AB$$
 which allows us to **cancel** common factors.
 
 >[!example]
->$$\frac$$
+>$$\begin{align}
+>&\frac{x^2-1}{x^2+x-2}\\[2ex]
+>=\space &\frac{\cancel{(x-1)}(x+1)}{(x-1)(x+2)}\\[2ex]
+>=\space &\frac{x+1}{x+2}
+>\end{align}$$

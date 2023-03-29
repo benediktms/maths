@@ -9,24 +9,12 @@
         "dimension": 67.85063752276868,
         "children": [
           {
-            "id": "3b24d5f6304b589d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra/Rational Expressions.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "f5513144ebbabc0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Radicals.md",
+                "file": "Algebra/Rational Expressions.md",
                 "mode": "source",
                 "source": true
               }
@@ -174,11 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b24d5f6304b589d",
+  "active": "f5513144ebbabc0d",
   "lastOpenFiles": [
     "General/Radicals.md",
-    "General/Exponential Notation.md",
     "Algebra/Rational Expressions.md",
+    "General/Exponential Notation.md",
     "Algebra/Variables & Expressions.md",
     "General/General.md",
     "Algebra/Algebra.md",

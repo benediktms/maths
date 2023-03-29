@@ -22,3 +22,7 @@ $$(a^{1/n})^n=a^{(1/n)n}=a^1=a$$
 So by definition of $n$th root,
 $$a^{1/n}=\sqrt[n]{a}$$
 
+## Radical Exponents
+> [!definition]
+> For any rational exponent $m/n$ in lowest terms, where $m$ and $n$ are integers and $n>0$, we define
+> $$a^{m/n}=(\sqrt[n]{a})^m$$

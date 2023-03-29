@@ -10,6 +10,6 @@ To give meaning to a power such as $2^{4/5}$ where the exponent is a rational nu
 >[!rule]
 >$$\begin{align}
 >&\text{Property} &\text{Example}\\
->1. &\sqrt[n]{ab}=\sqrt[n]{a}\sqrt[n]{b} &\sqrt\\
+>1. &\sqrt[n]{ab}=\sqrt[n]{a}\sqrt[n]{b} & \sqrt[3]\\
 >2. &\sqrt[n]{\frac ab}=\frac{\sqrt[n]{a}}{\sqrt[n]{b}}\\
 >\end{align}$$

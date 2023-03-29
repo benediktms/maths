@@ -1,6 +1,4 @@
-To give meaning to a power such as $2^{4/5}$ where the exponent is a rational number, rather than something like $2^n$ where $n$ is an integer, we must turn to radicals.
-
-But to understand radicals, we must first have a solid comprehension of **roots**.
+To give meaning to a power such as $2^{4/5}$ where the exponent is a rational number, rather than something like $2^n$ where $n$ is an integer, we must turn to radicals (the **root** of an expression).
 
 >[!rule]
 >$$\sqrt{a}=b\space \text{means}\space b^2=a\space \text{and}\space b\geq{0}$$
@@ -23,3 +21,4 @@ We can define a *rational exponent* (also called a *fractional exponent*) as fol
 $$(a^{1/n})^n=a^{(1/n)n}=a^1=a$$
 So by definition of $n$th root,
 $$a^{1/n}=\sqrt[n]{a}$$
+

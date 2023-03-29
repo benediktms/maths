@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1551f4a51f0764ad",
+        "id": "d6475898ed6766d9",
         "type": "tabs",
         "children": [
           {
-            "id": "52092e4a2d25a8cf",
+            "id": "3b24d5f6304b589d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Radicals.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Radicals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Radicals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "General/Radicals.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,12 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52092e4a2d25a8cf",
+  "active": "4340fe3ebbf1469a",
   "lastOpenFiles": [
-    "General/General.md",
-    "General/Radicals.md",
-    "General/Exponential Notation.md",
+    "2023-03-29.md",
+    "Untitled.canvas",
     "Algebra/Variables & Expressions.md",
+    "General/Radicals.md",
+    "General/General.md",
+    "General/Exponential Notation.md",
     "Algebra/Factoring.md",
     "General/Real Numbers.md",
     "Icon\r",

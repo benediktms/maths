@@ -1,0 +1,1 @@
+A rational expression is when both the numerator and the denominator are [[Variables & Expressions#Polynomials|polynomials]].

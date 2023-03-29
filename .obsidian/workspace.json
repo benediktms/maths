@@ -6,12 +6,32 @@
       {
         "id": "d6475898ed6766d9",
         "type": "tabs",
+        "dimension": 67.85063752276868,
         "children": [
           {
             "id": "3b24d5f6304b589d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "General/Radicals.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8f478979a087bd8f",
+        "type": "tabs",
+        "dimension": 32.14936247723133,
+        "children": [
+          {
+            "id": "e09dd1d0ad617699",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
@@ -81,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "General/Radicals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "General/Radicals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "General/Radicals.md"
+              }
             }
           }
         ]
@@ -138,18 +162,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4340fe3ebbf1469a",
+  "active": "3b24d5f6304b589d",
   "lastOpenFiles": [
-    "2023-03-29.md",
-    "Untitled.canvas",
-    "Algebra/Variables & Expressions.md",
+    "Algebra/Rational Expressions.md",
+    "Algebra/Algebra.md",
     "General/Radicals.md",
+    "Algebra/Variables & Expressions.md",
+    "Untitled.canvas",
+    "2023-03-29.md",
     "General/General.md",
     "General/Exponential Notation.md",
     "Algebra/Factoring.md",
     "General/Real Numbers.md",
     "Icon\r",
-    "Algebra/Algebra.md",
     "General/Real Numbers/Distributive Property.md",
     "General/Real Numbers/Commutative Properties.md",
     "General/Real Numbers/Associative Properties.md",

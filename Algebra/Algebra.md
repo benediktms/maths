@@ -1,2 +1,3 @@
 - [[Factoring]]
 - [[Variables & Expressions]]
+- [[Rational Expressions]]

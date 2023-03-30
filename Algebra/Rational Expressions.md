@@ -20,4 +20,5 @@ which allows us to **cancel** common factors.
 >$$\frac{5(x-3)(2x+1)}{1-(x-3)^2}$$
 >We can divide the denominator and the numerator by $5$:
 >$$\frac{(x-3)(2x+1)}{2(x-3)^2}$$
->Then can divide by $(x-3)
+>Then can divide by $(x-3)$ to cancel out that part of the numerator:
+>$$\frac{2x+1}{2(x-3)}$$

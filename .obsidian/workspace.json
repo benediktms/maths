@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Algebra/Rational Expressions.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -188,9 +188,9 @@
   },
   "active": "f5513144ebbabc0d",
   "lastOpenFiles": [
-    "General/Exponential Notation.md",
     "Algebra/Factoring.md",
     "Algebra/Rational Expressions.md",
+    "General/Exponential Notation.md",
     "General/Radicals.md",
     "Algebra/Variables & Expressions.md",
     "General/General.md",

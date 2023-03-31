@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Real Numbers.md",
+                "file": "Algebra/Rational Expressions.md",
                 "mode": "preview",
                 "source": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Real Numbers.md",
+                "file": "Algebra/Rational Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Real Numbers.md",
+                "file": "Algebra/Rational Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Real Numbers.md"
+                "file": "Algebra/Rational Expressions.md"
               }
             }
           }
@@ -188,17 +188,17 @@
   },
   "active": "f5513144ebbabc0d",
   "lastOpenFiles": [
-    "General/Untitled.md",
+    "Algebra/Variables & Expressions.md",
     "Algebra/Rational Expressions.md",
     "Algebra/Factoring.md",
+    "General/Real Numbers.md",
+    "General/Untitled.md",
     "General/Exponential Notation.md",
     "General/Radicals.md",
-    "Algebra/Variables & Expressions.md",
     "General/General.md",
     "Algebra/Algebra.md",
     "Untitled.canvas",
     "2023-03-29.md",
-    "General/Real Numbers.md",
     "Icon\r",
     "General/Real Numbers/Distributive Property.md",
     "General/Real Numbers/Commutative Properties.md",

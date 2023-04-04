@@ -125,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Rational Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Rational Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algebra/Rational Expressions.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -186,10 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5513144ebbabc0d",
+  "active": "e09dd1d0ad617699",
   "lastOpenFiles": [
-    "Algebra/Variables & Expressions.md",
     "Algebra/Rational Expressions.md",
+    "Algebra/Variables & Expressions.md",
     "Algebra/Factoring.md",
     "General/Real Numbers.md",
     "General/Untitled.md",

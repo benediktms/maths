@@ -6,7 +6,6 @@
       {
         "id": "d6475898ed6766d9",
         "type": "tabs",
-        "dimension": 67.85063752276868,
         "children": [
           {
             "id": "f5513144ebbabc0d",
@@ -42,21 +41,6 @@
                 "mode": "preview",
                 "source": true
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8f478979a087bd8f",
-        "type": "tabs",
-        "dimension": 32.14936247723133,
-        "children": [
-          {
-            "id": "e09dd1d0ad617699",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -125,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algebra/Rational Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algebra/Rational Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algebra/Rational Expressions.md"
+              }
             }
           }
         ]
@@ -182,11 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e09dd1d0ad617699",
+  "active": "f5513144ebbabc0d",
   "lastOpenFiles": [
+    "Algebra/Factoring.md",
     "Algebra/Rational Expressions.md",
     "Algebra/Variables & Expressions.md",
-    "Algebra/Factoring.md",
     "General/Real Numbers.md",
     "General/Untitled.md",
     "General/Exponential Notation.md",

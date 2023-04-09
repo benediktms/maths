@@ -17,10 +17,10 @@ which allows us to **cancel** common factors.
 >=\space &\frac{x+1}{x+2}
 >\end{align}$$
 >Here we can cancel the common factors of the expression once we have factored it. The same rule applies when we divide the numerator and denominator. For example, given this expression:
->$$\frac{5(x-3)(2x+1)}{1-(x-3)^2}$$
+>$$\frac{5(x-3)(2x+1)}{10(x-3)^2}$$
 >We can divide the denominator and the numerator by $5$:
 >$$\frac{(x-3)(2x+1)}{2(x-3)^2}$$
->Then can divide by $(x-3)$ to cancel out that part of the numerator:
+>Then can divide by $(x-3)$ to cancel out that part of the numerator (and reduce the exponent of the denominator by $1$):
 >$$\frac{2x+1}{2(x-3)}$$
 
 ## Multiplying and Dividing Rational Expressions

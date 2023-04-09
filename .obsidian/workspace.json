@@ -26,19 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra/Factoring.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ce9f0f64c0c726b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Exponential Notation.md",
+                "file": "General/Real Numbers.md",
                 "mode": "preview",
                 "source": true
               }
@@ -188,14 +176,14 @@
   },
   "active": "f5513144ebbabc0d",
   "lastOpenFiles": [
-    "Algebra/Variables & Expressions.md",
-    "Algebra/Rational Expressions.md",
-    "Algebra/Factoring.md",
     "General/Real Numbers.md",
-    "General/Untitled.md",
-    "General/Exponential Notation.md",
     "General/Radicals.md",
+    "General/Exponential Notation.md",
     "General/General.md",
+    "Algebra/Factoring.md",
+    "Algebra/Rational Expressions.md",
+    "Algebra/Variables & Expressions.md",
+    "General/Untitled.md",
     "Algebra/Algebra.md",
     "Untitled.canvas",
     "2023-03-29.md",

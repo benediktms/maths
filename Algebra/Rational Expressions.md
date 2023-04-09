@@ -22,3 +22,11 @@ which allows us to **cancel** common factors.
 >$$\frac{(x-3)(2x+1)}{2(x-3)^2}$$
 >Then can divide by $(x-3)$ to cancel out that part of the numerator:
 >$$\frac{2x+1}{2(x-3)}$$
+
+## Multiplying and Dividing Rational Expressions
+
+For multiplying rational expressions, we do:
+$$\frac AB\cdot\frac CD = \frac{AC}{BD}$$
+> [!example]
+> To multiply and simplify the following:
+> $$\frac{x^2+2x-3}{x^28x+16}\cdot\frac{3x+12}{x-1}$$

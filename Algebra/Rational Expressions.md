@@ -37,3 +37,13 @@ $$\frac AB\cdot\frac CD = \frac{AC}{BD}$$
 > \end{align}$$
 
 When dividing rational expressions, we use the following property:
+$$\frac AB \div \frac CD = \frac AB \cdot \frac DC$$
+After that we follow the same process as for multiplication.
+
+> [!example]
+> Let's look at a slightly more complicated example that looks at various mathematical  concepts to factor and simplify the following:
+> $$\begin{align}
+> &\frac{x+3}{4x^2-9} \cdot \frac{x^2+7x+12}{2x^2+7x-15}\\[2ex]
+> &=\frac{x+3}{(2x+3)(2x-3)} \cdot \frac{2x(x+5)-3(x+5)}{(x+5)(2x-3)}\\[2ex]
+> &= \frac{9x}{}
+> \end{align}$$

@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e09dd1d0ad617699",
+            "id": "a281421c7b6f7815",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Algebra/Rational Expressions.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Difference of squares",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algebra/Rational Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algebra/Rational Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algebra/Rational Expressions.md"
+              }
             }
           }
         ]
@@ -138,16 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4340fe3ebbf1469a",
+  "active": "a281421c7b6f7815",
   "lastOpenFiles": [
+    "Algebra/Variables & Expressions.md",
     "Algebra/Rational Expressions.md",
-    "conflict-files-obsidian-git.md",
     "General/Real Numbers.md",
-    "General/Radicals.md",
-    "General/Exponential Notation.md",
     "General/General.md",
     "Algebra/Factoring.md",
-    "Algebra/Variables & Expressions.md",
+    "conflict-files-obsidian-git.md",
+    "General/Radicals.md",
+    "General/Exponential Notation.md",
     "General/Untitled.md",
     "Algebra/Algebra.md",
     "Untitled.canvas",

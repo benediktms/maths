@@ -29,4 +29,11 @@ For multiplying rational expressions, we do:
 $$\frac AB\cdot\frac CD = \frac{AC}{BD}$$
 > [!example]
 > To multiply and simplify the following:
-> $$\frac{x^2+2x-3}{x^28x+16}\cdot\frac{3x+12}{x-1}$$
+> $$\begin{align}\\
+> &\frac{x^2+2x-3}{x^28x+16}\cdot\frac{3x+12}{x-1}\\[2ex]
+> &=\frac{(x-1)(x+3)}{(x+4)^2}\cdot \frac{3(x+4)}{x-1}\\[2ex]
+> &=\frac{3({\color{red}{x-1}})(x+3)({\color{teal}{x+4}})}{({\color{red}{x-1}})({\color{teal}{x+4}})^2}\\[2ex]
+> &=\frac{3(x+3)}{x+4}
+> \end{align}$$
+
+When dividing rational expressions, we use the following property:

@@ -45,5 +45,13 @@ After that we follow the same process as for multiplication.
 > $$\begin{align}
 > &\frac{x+3}{4x^2-9} \cdot \frac{x^2+7x+12}{2x^2+7x-15}\\[2ex]
 > &=\frac{x+3}{(2x+3)(2x-3)} \cdot \frac{2x(x+5)-3(x+5)}{(x+5)(2x-3)}\\[2ex]
-> &= \frac{9x}{}
+> &= \frac{({\color{red}{x+3}})(x+5)({\color{teal}{2x-3}})}{({\color{teal}{2x-3}})(2x+3)(x+4)({\color{red}{x+3}})}\\[2ex]
+> &=\frac{x+5}{(2x+3)(x+4)}
 > \end{align}$$
+> In the above example we factor $2x^2+7x-15$. After we factor, the expression we can see that both terms have the binomial $(x+5)$ in common, which we can factor out, resulting in $(x+5)(2x-3)$. After that, we can continue factoring the initial expression.
+
+## Adding and Subtracting Rational Expressions
+
+When adding or subtracting rational expressions, we follow the following property:
+$$\frac AC + \frac BC = \frac{A+B}{C}$$
+We can then use any common denominator, but it's usually best to use the **least common denominator (LCD)**.

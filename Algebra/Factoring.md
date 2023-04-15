@@ -58,7 +58,7 @@ $$\begin{align}
 ax^2+bx+c &= (px+r)(qx+s)\\
 &=pqx^2+(ps+qr)+rs
 \end{align}$$
-Where we should try to find numbers $p$, $q$, $r$, and $s$ such that $pq=a$, $rs=c$, $ps+qr=b$.
+Where we should try to find numbers $p$, $q$, $r$, and $s$ such that $pq=a$, $rs=c$, $ps+qr=b$
 
 > [!example]
 > $$6x^2+7x-5$$

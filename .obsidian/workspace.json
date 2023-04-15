@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Radicals.md",
-                "mode": "preview",
+                "file": "General/Real Numbers.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Rational Expressions.md",
+                "file": "General/Real Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Rational Expressions.md",
+                "file": "General/Real Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Rational Expressions.md"
+                "file": "General/Real Numbers.md"
               }
             }
           }
@@ -158,15 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a281421c7b6f7815",
+  "active": "e7f2736c2b9a6064",
   "lastOpenFiles": [
-    "General/Radicals.md",
-    "General/Real Numbers.md",
     "Algebra/Rational Expressions.md",
+    "General/Real Numbers.md",
+    "General/Radicals.md",
+    "conflict-files-obsidian-git.md",
     "Algebra/Variables & Expressions.md",
     "General/General.md",
     "Algebra/Factoring.md",
-    "conflict-files-obsidian-git.md",
     "General/Exponential Notation.md",
     "General/Untitled.md",
     "Algebra/Algebra.md",

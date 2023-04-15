@@ -60,5 +60,19 @@ The distributive property is important because it describes how addition and mul
 
 ## Multiplication and Division
 - $1$ is called the **multiplicative identity** because $a\cdot1=a$
-- Every nonzero real number has an inverse $1/a$ that satisfies $a\cdot(1/a)$
+- Every non-zero real number has an inverse $1/a$ that satisfies $a\cdot(1/a)$
 - Division is defined as $a\div b =a\cdot \frac 1b$ where $b \neq0$
+	- We can write $a\cdot(1/b)$ as $a/b$. We refer to this as the **quotient** of $a$ and $b$ or as the **fraction** $a$ over $b$.]: $a$ is the **numerator** and $b$ is the **denominator** (or **divisor**).
+
+>[!properties of fractions]
+>1. $\frac ab \cdot \frac cd = \frac{ac}{bd}$
+>2. $\frac ab \div \frac cd = \frac ab \cdot \frac dc$
+>3. $\frac ac + \frac bc = \frac{a+b}{c}$
+>4. $\frac ab + \frac cd = \frac{ad+bc}{bd}$
+>5. $\frac{ac}{bc} = \frac ab$
+>6. $\text{If} \frac ab = \frac cd \text{, then } ad = bc$
+
+When we add fractions, we don't usually use Property 4. Instead, we rewrite fractions so that they have the smallest common denominator (which is often smaller than the product of the denominators) and then use Property 3. This is also called the **least common denominator (LCD)**.
+
+### Using the  LCD to add fractions
+We can 

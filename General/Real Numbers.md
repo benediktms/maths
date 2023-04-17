@@ -74,5 +74,9 @@ The distributive property is important because it describes how addition and mul
 
 When we add fractions, we don't usually use Property 4. Instead, we rewrite fractions so that they have the smallest common denominator (which is often smaller than the product of the denominators) and then use Property 3. This is also called the **least common denominator (LCD)**.
 
-### Using the  LCD to add fractions
-We can 
+### Using the LCD to add fractions
+If we need to evaluate the following:
+$$\frac {5}{36} + \frac{7}{120}$$
+We factor the denominators into their prime factors: $36=2^2\cdot3^2$ and $120=2^3\cdot3\cdot5$
+We can then find the LCD by forming the product of all the prime factors that occur in these factorizations, using the highest power of each prime factor. In the above example, this would be:
+$$2^3\cdot3^2\cdot$$

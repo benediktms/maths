@@ -6,21 +6,10 @@
       {
         "id": "8f478979a087bd8f",
         "type": "tabs",
+        "dimension": 71.91780821917808,
         "children": [
           {
             "id": "a281421c7b6f7815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra/Rational Expressions.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e7f2736c2b9a6064",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +19,35 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "bcb30cc170d17c23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra/Rational Expressions.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "25cf99c75b3490c1",
+        "type": "tabs",
+        "dimension": 28.08219178082192,
+        "children": [
+          {
+            "id": "f67da873c9fed9fd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,12 +174,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7f2736c2b9a6064",
+  "active": "a281421c7b6f7815",
   "lastOpenFiles": [
     "Algebra/Rational Expressions.md",
     "General/Real Numbers.md",
-    "General/Radicals.md",
     "conflict-files-obsidian-git.md",
+    "General/Radicals.md",
     "Algebra/Variables & Expressions.md",
     "General/General.md",
     "Algebra/Factoring.md",

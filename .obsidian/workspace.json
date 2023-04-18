@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Real Numbers.md",
-                "mode": "source",
+                "file": "Algebra/Rational Expressions.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Real Numbers.md",
+                "file": "Algebra/Rational Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Real Numbers.md",
+                "file": "Algebra/Rational Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Real Numbers.md"
+                "file": "Algebra/Rational Expressions.md"
               }
             }
           }
@@ -176,8 +176,8 @@
   },
   "active": "a281421c7b6f7815",
   "lastOpenFiles": [
-    "Algebra/Rational Expressions.md",
     "General/Real Numbers.md",
+    "Algebra/Rational Expressions.md",
     "conflict-files-obsidian-git.md",
     "General/Radicals.md",
     "Algebra/Variables & Expressions.md",

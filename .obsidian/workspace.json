@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "General/Real Numbers.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -27,6 +27,18 @@
               "state": {
                 "file": "Algebra/Rational Expressions.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9e3edc263c00fdc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra/Factoring.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -161,9 +173,9 @@
   },
   "active": "f87da26f0cc308de",
   "lastOpenFiles": [
+    "Algebra/Factoring.md",
     "General/Real Numbers.md",
     "Algebra/Rational Expressions.md",
-    "Algebra/Factoring.md",
     "General/Exponential Notation.md",
     "Algebra/Variables & Expressions.md",
     "conflict-files-obsidian-git.md",

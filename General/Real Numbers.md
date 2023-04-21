@@ -79,4 +79,16 @@ If we need to evaluate the following:
 $$\frac {5}{36} + \frac{7}{120}$$
 We factor the denominators into their prime factors: $36=2^2\cdot3^2$ and $120=2^3\cdot3\cdot5$
 We can then find the LCD by forming the product of all the prime factors that occur in these factorizations, using the highest power of each prime factor. In the above example, this would be:
-$$2^3\cdot3^2\cdot$$
+$$2^3\cdot3^2\cdot5 =360$$
+Therefore:
+$$
+\frac5{36}+\frac7{120}=
+\frac
+{5\cdot{\color{red}{10}}}
+{36\cdot{\color{red}{10}}}+
+\frac
+{7\cdot{\color{red}{3}}}
+{120\cdot{\color{red}{3}}}
+$$
+We multiply each fraction by the numbers needed so that we get the LCD as the denominator. Afterward we can simply add the fractions:
+$$\frac{50}{360}+\frac{21}{360}=\frac{71}{360}$$

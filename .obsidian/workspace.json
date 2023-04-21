@@ -4,24 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8f478979a087bd8f",
+        "id": "d6475898ed6766d9",
         "type": "tabs",
-        "dimension": 71.91780821917808,
         "children": [
           {
-            "id": "a281421c7b6f7815",
+            "id": "ce9f0f64c0c726b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra/Rational Expressions.md",
-                "mode": "preview",
+                "file": "General/Real Numbers.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "bcb30cc170d17c23",
+            "id": "f87da26f0cc308de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,22 +31,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "25cf99c75b3490c1",
-        "type": "tabs",
-        "dimension": 28.08219178082192,
-        "children": [
-          {
-            "id": "f67da873c9fed9fd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Difference of squares",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a281421c7b6f7815",
+  "active": "f87da26f0cc308de",
   "lastOpenFiles": [
     "General/Real Numbers.md",
     "Algebra/Rational Expressions.md",
-    "conflict-files-obsidian-git.md",
-    "General/Radicals.md",
-    "Algebra/Variables & Expressions.md",
-    "General/General.md",
     "Algebra/Factoring.md",
     "General/Exponential Notation.md",
+    "Algebra/Variables & Expressions.md",
+    "conflict-files-obsidian-git.md",
     "General/Untitled.md",
+    "General/Radicals.md",
+    "General/General.md",
     "Algebra/Algebra.md",
     "Untitled.canvas",
     "2023-03-29.md",

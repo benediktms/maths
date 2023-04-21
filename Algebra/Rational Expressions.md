@@ -71,3 +71,14 @@ In the above example, we factor $2x^2+7x-15$. After we factor, the expression we
 When adding or subtracting rational expressions, we follow the following property:
 $$\frac AC + \frac BC = \frac{A+B}{C}$$
 We can then use any common denominator, but it's usually best to use the [[Real Numbers#Using the LCD to add fractions|LCD]].
+
+>[!example]
+>$$\begin{align}
+>&\frac{3}{x-1}-\frac{x}{x+2}\\[2ex]
+>&=\frac{3(x+2)}{(x-1)(x+2)}+\frac{x(x-1)}{(x-1)(x+2)}\\[2ex]
+>&=\frac{3(x+2)+x(x-1)}{(x-1)(x+2)}\\[2ex]
+>&=\frac{3x+6+x^2-x}{(x-1)(x+2)}\\[2ex]
+>&=\frac{x^2+2x+6}{(x-1)(x+2)}
+>\end{align}$$
+>This is quite a simple example where the LCD happens to be the product of $(x-1)(x+2)$.
+

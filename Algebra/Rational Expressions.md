@@ -82,3 +82,11 @@ We can then use any common denominator, but it's usually best to use the [[Real 
 >\end{align}$$
 >This is quite a simple example where the LCD happens to be the product of $(x-1)(x+2)$.
 
+## Compound Fractions
+A **compound fraction** is a fraction where the numerator, the denominator, or both are themselves fractions.
+
+### Simplifying Compound Fractions
+>[!example]
+>Simplify the following:
+>$$\frac{\frac xy +1}{1- \frac yx}$$
+>

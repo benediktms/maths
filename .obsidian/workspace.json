@@ -15,7 +15,7 @@
               "state": {
                 "file": "General/Real Numbers.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "Algebra/Rational Expressions.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           },
@@ -39,7 +39,7 @@
               "state": {
                 "file": "Algebra/Factoring.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }

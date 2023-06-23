@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "livePreview": false,
+  "livePreview": true,
   "spellcheckDictionary": [
     "trinomials",
     "Trinomials"

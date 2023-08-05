@@ -89,4 +89,8 @@ A **compound fraction** is a fraction where the numerator, the denominator, or b
 >[!example]
 >Simplify the following:
 >$$\frac{\frac xy +1}{1- \frac yx}$$
+>The simplest way (and the way that makes the most sense to me) is to find the [[Real Numbers#Using the LCD to add fractions|LCD]] (or in face any common denominator, since it can always be simplified later) and multiply  each numerator and denominator:
+
+
+>$$\frac{\frac{x}{y} +1}{1 - \frac{y}{x}}$$
 >

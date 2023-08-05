@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce9f0f64c0c726b7",
+            "id": "f87da26f0cc308de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,25 +20,13 @@
             }
           },
           {
-            "id": "f87da26f0cc308de",
+            "id": "ec9ea5c0f8788fb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Algebra/Rational Expressions.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc7bfd9836cca76f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra/Factoring.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "LCD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,17 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f87da26f0cc308de",
+  "active": "ec9ea5c0f8788fb1",
   "lastOpenFiles": [
-    "General/Real Numbers.md",
-    "Algebra/Rational Expressions.md",
-    "Algebra/Factoring.md",
-    "General/Exponential Notation.md",
     "Algebra/Variables & Expressions.md",
-    "conflict-files-obsidian-git.md",
-    "General/Untitled.md",
+    "General/Exponential Notation.md",
+    "Algebra/Rational Expressions.md",
+    "General/Real Numbers.md",
     "General/Radicals.md",
     "General/General.md",
+    "Algebra/Factoring.md",
+    "conflict-files-obsidian-git.md",
+    "General/Untitled.md",
     "Algebra/Algebra.md",
     "Untitled.canvas",
     "2023-03-29.md",

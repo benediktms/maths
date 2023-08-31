@@ -1,16 +1,21 @@
 Real numbers can be divided into 3 different kinds:
-- Natural numbers $\Bbb{N}$: any number that is $<0$, e.g. $1,2,3,4,\cdots$
+- Natural numbers $\Bbb{N}$: any number that is $<0$, e.g. $1,2,3,4,\cdots$ Note: Sometimes $0$ is considered a natural number
 - Whole numbers $\Bbb{W}$: any $\Bbb{N}$ number that is not negative, e.g. $0,1,2,3\dots$
 - Integers $\Bbb{Z}$: any $\Bbb{W}$ as well as their negative counterparts and $0$, e.g. $-3,-2,-1,0,1,2,3$
-- Rational numbers $\Bbb{Q}$ (quotients): fractions or ratios of integers, they are expressed as $$r = \frac mn$$ where $m$ and $n$ are integers and $n \neq 0$, e.g: $\frac 37, 0.16$. Division by $0$ is ruled out, so $\frac 30$ or $\frac 00$ is undefined.
-- Irrational numbers/Real numbers $\Bbb{R}$: A number that cannot be expressed as a ratio of integers, such as $\sqrt 2$ or $\pi$
+- Rational numbers/quotients $\Bbb{Q}$: fractions/ratios/quotients of integers, they are expressed as $$r = \frac mn$$ where $m$ and $n$ are integers and $n \neq 0$, e.g: $\frac 37, 0.16$. Division by $0$ is ruled out, so $\frac 30$ or $\frac 00$ is undefined.
+- Irrational numbers: A number that cannot be expressed as a ratio of integers, such as $\sqrt 2$ or $\pi$
+Real numbers $\Bbb{R}$: All numbers that are either rational or irrational
 
-These can be expressed as 
+These can be expressed like so:
+$$
+\Bbb{N} \subseteq \Bbb{W} \subseteq \Bbb{Z} \subseteq \Bbb{Q} \subseteq \Bbb{R}
 $$
 
-$$
+There are also Complex numbers $\Bbb{C}$ which are used with imaginary numbers $i$
 
-The set of all real numbers can be denoted as $\mathbb R$. Every real number has a decimal representation. If the number is rational the  decimal is repeating, e.g. $$\frac23=0.6666\cdots=0.\overline6$$
+Where going from left to right, Natural numbers are a subset of Whole numbers, which in turn are a subset of Integers, etc.
+
+The set of all real numbers can be denoted as $\mathbb R$. Every real number has a decimal representation. If the number is rational the decimal is repeating, e.g. $$\frac23=0.6666\cdots=0.\overline6$$
 $$\frac{157}{495}=0.317171717\cdots=0.3\overline{17}$$
 
 ## Associative Properties

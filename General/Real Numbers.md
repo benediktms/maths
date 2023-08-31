@@ -4,14 +4,14 @@ Real numbers can be divided into 3 different kinds:
 - Integers $\Bbb{Z}$: any $\Bbb{W}$ as well as their negative counterparts and $0$, e.g. $-3,-2,-1,0,1,2,3$
 - Rational numbers/quotients $\Bbb{Q}$: fractions/ratios/quotients of integers, they are expressed as $$r = \frac mn$$ where $m$ and $n$ are integers and $n \neq 0$, e.g: $\frac 37, 0.16$. Division by $0$ is ruled out, so $\frac 30$ or $\frac 00$ is undefined.
 - Irrational numbers: A number that cannot be expressed as a ratio of integers, such as $\sqrt 2$ or $\pi$
-Real numbers $\Bbb{R}$: All numbers that are either rational or irrational
+Real numbers $\Bbb{R}$: All numbers that are either rational or irrational or any number with a decimal expansion
 
 These can be expressed like so:
 $$
 \Bbb{N} \subseteq \Bbb{W} \subseteq \Bbb{Z} \subseteq \Bbb{Q} \subseteq \Bbb{R}
 $$
 
-There are also Complex numbers $\Bbb{C}$ which are used with imaginary numbers $i$
+There are also Complex numbers $\Bbb{C}$ which are used with imaginary numbers $i$ and contain all of $\Bbb{R}$
 
 Where going from left to right, Natural numbers are a subset of Whole numbers, which in turn are a subset of Integers, etc.
 

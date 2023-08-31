@@ -7,5 +7,7 @@
   ],
   "readableLineLength": true,
   "strictLineBreaks": false,
-  "vimMode": true
+  "vimMode": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": false
 }

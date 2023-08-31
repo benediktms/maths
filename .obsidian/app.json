@@ -6,5 +6,6 @@
     "Trinomials"
   ],
   "readableLineLength": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "vimMode": true
 }

@@ -1,8 +1,14 @@
 Real numbers can be divided into 3 different kinds:
-- Natural numbers: any integer that is $<0$, e.g. $1,2,3,4,\cdots$
-- Integers: any natural number as well as their negative counterparts and $0$, e.g. $-3,-2,-1,0,1,2,3$
-- Rational numbers: fractions or ratios of integers, they are expressed as $$r = \frac mn$$ where $m$ and $n$ are integers and $n \neq 0$, e.g: $\frac 37, 0.16$. Division by $0$ is ruled out, so $\frac 30$ or $\frac 00$ is undefined.
-- Irrational numbers: A number that cannot be expressed as a ratio of integers such as $\sqrt 2$ or $\pi$
+- Natural numbers $\Bbb{N}$: any number that is $<0$, e.g. $1,2,3,4,\cdots$
+- Whole numbers $\Bbb{W}$: any $\Bbb{N}$ number that is not negative, e.g. $0,1,2,3\dots$
+- Integers $\Bbb{Z}$: any $\Bbb{W}$ as well as their negative counterparts and $0$, e.g. $-3,-2,-1,0,1,2,3$
+- Rational numbers $\Bbb{Q}$ (quotients): fractions or ratios of integers, they are expressed as $$r = \frac mn$$ where $m$ and $n$ are integers and $n \neq 0$, e.g: $\frac 37, 0.16$. Division by $0$ is ruled out, so $\frac 30$ or $\frac 00$ is undefined.
+- Irrational numbers/Real numbers $\Bbb{R}$: A number that cannot be expressed as a ratio of integers, such as $\sqrt 2$ or $\pi$
+
+These can be expressed as 
+$$
+
+$$
 
 The set of all real numbers can be denoted as $\mathbb R$. Every real number has a decimal representation. If the number is rational the  decimal is repeating, e.g. $$\frac23=0.6666\cdots=0.\overline6$$
 $$\frac{157}{495}=0.317171717\cdots=0.3\overline{17}$$

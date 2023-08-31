@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Rational Expressions.md",
+                "file": "General/Real Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Rational Expressions.md",
+                "file": "General/Real Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Rational Expressions.md"
+                "file": "General/Real Numbers.md"
               }
             }
           }
@@ -167,11 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec9ea5c0f8788fb1",
+  "active": "f87da26f0cc308de",
   "lastOpenFiles": [
+    "Algebra/Rational Expressions.md",
     "Algebra/Variables & Expressions.md",
     "General/Exponential Notation.md",
-    "Algebra/Rational Expressions.md",
     "General/Real Numbers.md",
     "General/Radicals.md",
     "General/General.md",

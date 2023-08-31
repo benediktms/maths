@@ -3,7 +3,7 @@ Real numbers can be divided into 3 different kinds:
 - Whole numbers $\Bbb{W}$: any $\Bbb{N}$ number that is not negative, e.g. $0,1,2,3\dots$
 - Integers $\Bbb{Z}$: any $\Bbb{W}$ as well as their negative counterparts and $0$, e.g. $-3,-2,-1,0,1,2,3$
 - Rational numbers/quotients $\Bbb{Q}$: fractions/ratios/quotients of integers, they are expressed as $$r = \frac mn$$ where $m$ and $n$ are integers and $n \neq 0$, e.g: $\frac 37, 0.16$. Division by $0$ is ruled out, so $\frac 30$ or $\frac 00$ is undefined.
-- Irrational numbers: A number that cannot be expressed as a ratio of integers, such as $\sqrt 2$ or $\pi$
+- Irrational numbers (there is no dedicated set notation, but it can be expressed as $\Bbb{R}-\Bbb{Q}$): A number that cannot be expressed as a ratio of integers, such as $\sqrt 2$ or $\pi$
 Real numbers $\Bbb{R}$: All numbers that are either rational or irrational or any number with a decimal expansion
 
 These can be expressed like so:
@@ -15,7 +15,7 @@ There are also Complex numbers $\Bbb{C}$ which are used with imaginary numbers $
 
 Where going from left to right, Natural numbers are a subset of Whole numbers, which in turn are a subset of Integers, etc.
 
-The set of all real numbers can be denoted as $\mathbb R$. Every real number has a decimal representation. If the number is rational the decimal is repeating, e.g. $$\frac23=0.6666\cdots=0.\overline6$$
+Every real number has a decimal representation. If the number is rational the decimal is repeating, e.g. $$\frac23=0.6666\cdots=0.\overline6$$
 $$\frac{157}{495}=0.317171717\cdots=0.3\overline{17}$$
 
 ## Associative Properties

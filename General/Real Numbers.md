@@ -119,7 +119,10 @@ $$
 
 > [!example]
 > $$
-> \begin{algin} \\
-> \frac{1}{2}+\frac{3}{5} \\
-> \end{algin}
+> \begin{align}
+& \frac{1}{2}+\frac{3}{5} \\[2ex]
+= &\frac{(5\cdot 1)+(3\cdot 2)}{5\cdot 2} = \frac{11}{10}
+\end{align}
 $$
+
+

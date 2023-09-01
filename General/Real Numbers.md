@@ -114,5 +114,5 @@ $$
 $$
 We can re-write it as follows:
 $$
-ad \pm cd / cd
+\frac{ad \pm cd}{db}
 $$

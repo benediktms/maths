@@ -13,12 +13,13 @@ $$
 
 There are also Complex numbers $\Bbb{C}$ which are used with imaginary numbers $i$ and contain all of $\Bbb{R}$.
 
-Real numbers $\Bbb{R}$ is considered a closed (the Closed Property) set (that is, performing any mathematical operation with two real numbers will result in another new number). Quotients $\Bbb{Q}$ for example are considered open sets, because it is the result of a mathematical operation can escape the set, for example $\frac{1}{2}+\frac{1}{2}=1$ which is a natural number $\Bbb{N}$. Another example would be $2-3=-1$ this is an example where the order matters (see [[Real Numbers#Commutative Properties|Commutative Property]]) because $3-2$ would still be within $\Bbb{N}$.
-
 Where going from left to right, Natural numbers are a subset of Whole numbers, which in turn are a subset of Integers, etc.
 
 Every real number has a decimal representation. If the number is rational the decimal is repeating, e.g. $$\frac23=0.6666\cdots=0.\overline6$$
 $$\frac{157}{495}=0.317171717\cdots=0.3\overline{17}$$
+### Closure Property
+
+Real numbers $\Bbb{R}$ is considered a closed (the Closed Property) set (that is, performing any mathematical operation with two real numbers will result in another new number). Quotients $\Bbb{Q}$ for example are considered open sets, because it is the result of a mathematical operation can escape the set, for example $\frac{1}{2}+\frac{1}{2}=1$ which is a natural number $\Bbb{N}$. Another example would be $2-3=-1$ this is an example where the order matters (see [[Real Numbers#Commutative Properties|Commutative Property]]) because $3-2$ would still be within $\Bbb{N}$.
 
 ## Associative Properties
 
@@ -87,11 +88,17 @@ The distributive property is important because it describes how addition and mul
 
 When we add fractions, we don't usually use Property 4. Instead, we rewrite fractions so that they have the smallest common denominator (which is often smaller than the product of the denominators) and then use Property 3. This is also called the **least common denominator (LCD)**.
 
+### Some definitions
+For a fraction $\frac{a}{b}$,
+- The **numerator** is the term above the line, $a$
+- The **denominator** is the term below the line, $b$
+- The **reciprocal** is the fraction you get from flipping the numerator and denominator, $\frac{b}{a}$
+
 ### Using the LCD to add fractions
 If we need to evaluate the following:
 $$\frac {5}{36} + \frac{7}{120}$$
 We factor the denominators into their prime factors: $36=2^2\cdot3^2$ and $120=2^3\cdot3\cdot5$
-We can then find the LCD by forming the product of all the prime factors that occur in these factorizations, using the highest power of each prime factor. In the above example, this would be:
+We can then find the LCD by forming the product of all the prime factors that occur in these factorisations, using the highest power of each prime factor. In the above example, this would be:
 $$2^3\cdot3^2\cdot5 =360$$
 Therefore:
 $$

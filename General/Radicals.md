@@ -2,7 +2,7 @@ To give meaning to a power such as $2^{4/5}$ where the exponent is a rational nu
 
 >[!rule]
 >$$\sqrt{a}=b\space \text{means}\space b^2=a\space \text{and}\space b\geq{0}$$
->If $n$ is any positive integer, then the **principal $n$th root** of $a$ is defined:
+>If $n$ is any positive integer ($b \in{\Bbb{R}}$), then the **principal $n$th root** of $a$ is defined:
 >$$\sqrt[n]{a}=b \space \text{means}\space b^n=a$$
 
 ## Properties of $n$th Roots

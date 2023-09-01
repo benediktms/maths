@@ -11,7 +11,9 @@ $$
 \Bbb{N} \subseteq \Bbb{W} \subseteq \Bbb{Z} \subseteq \Bbb{Q} \subseteq \Bbb{R}
 $$
 
-There are also Complex numbers $\Bbb{C}$ which are used with imaginary numbers $i$ and contain all of $\Bbb{R}$
+There are also Complex numbers $\Bbb{C}$ which are used with imaginary numbers $i$ and contain all of $\Bbb{R}$.
+
+Real numbers $\Bbb{R}$ is considered a closed (the Closed Property) set (that is, performing any mathematical operation with two real numbers will result in another new number). Quotients $\Bbb{Q}$ for example are considered open sets, because it is the result of a mathematical operation can escape the set, for example $\frac{1}{2}+\frac{1}{2}=1$ which is a natural number $\Bbb{N}$. Another example would be $2-3=-1$ this is an example where the order matters (see [[Real Numbers#Commutative Properties|Commutative Property]]) because $3-2$ would still be within $\Bbb{N}$.
 
 Where going from left to right, Natural numbers are a subset of Whole numbers, which in turn are a subset of Integers, etc.
 
@@ -57,7 +59,7 @@ $$\frac{157}{495}=0.317171717\cdots=0.3\overline{17}$$
 
 The distributive property is important because it describes how addition and multiplication interact with each other.
 
-## Addition and Subtraction
+## Identity (Addition and Subtraction)
 - $0$ is called the **additive identity** because $a+0=1$ for any real number
 - Every real number has a negative $-a$ that satisfies $a+(-a)=0$
 - Subtraction is defined as $a-b=a+(-b)$
@@ -103,3 +105,14 @@ $$
 $$
 We multiply each fraction by the numbers needed so that we get the LCD as the denominator. Afterward we can simply add the fractions:
 $$\frac{50}{360}+\frac{21}{360}=\frac{71}{360}$$
+## Bow tie method
+An alternative to adding and subtracting fraction is to use the bow tie method, which is expressed as follows:
+
+If given the expression
+$$
+\frac{a}{b} \pm \frac{c}{d}
+$$
+We can re-write it as follows:
+$$
+ad \pm cd / cd
+$$

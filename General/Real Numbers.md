@@ -116,3 +116,10 @@ We can re-write it as follows:
 $$
 \frac{ad \pm cd}{db}
 $$
+
+> [!example]
+> $$
+> \begin{algin} \\
+> \frac{1}{2}+\frac{3}{5} \\
+> \end{algin}
+$$

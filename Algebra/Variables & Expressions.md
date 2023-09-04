@@ -1,5 +1,12 @@
 A letter that represents any number from a given set of numbers is called a **monomial**. A sum of two monomials is called a **binomial**, and the sum of three monomials is called a **trinomial**.
 
+## Properties of Equality
+
+There are three properties of equlaity:
+- if $a=b$, then $b=a$ (**symmetric**)
+- if $a=\Bbb{R}$, then $a=a$ (**reflexive**)
+- if $a=b, b=c$, then $a=c$ (**transitive**)
+
 ## Polynomials
 
 To generalize, we can say that a sum of monomials is a **polynomial**. 

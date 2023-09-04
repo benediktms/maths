@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Real Numbers.md",
+                "file": "Algebra/Variables & Expressions.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra/Rational Expressions.md",
+                "file": "General/Real Numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Real Numbers.md",
+                "file": "Algebra/Variables & Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Real Numbers.md",
+                "file": "Algebra/Variables & Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Real Numbers.md"
+                "file": "Algebra/Variables & Expressions.md"
               }
             }
           }
@@ -168,13 +168,13 @@
   },
   "active": "f87da26f0cc308de",
   "lastOpenFiles": [
-    "Algebra/Rational Expressions.md",
     "General/Real Numbers.md",
+    "Algebra/Rational Expressions.md",
+    "Algebra/Variables & Expressions.md",
     "General/General.md",
     "Algebra/Factoring.md",
     "Algebra/Algebra.md",
     "General/Radicals.md",
-    "Algebra/Variables & Expressions.md",
     "General/Exponential Notation.md",
     "conflict-files-obsidian-git.md",
     "General/Untitled.md",

@@ -148,6 +148,18 @@
                 "file": "Algebra/Variables & Expressions.md"
               }
             }
+          },
+          {
+            "id": "0ebebb0ad08088dd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ]
       }

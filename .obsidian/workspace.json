@@ -13,20 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra/Variables & Expressions.md",
+                "file": "Algebra/Factoring.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ec9ea5c0f8788fb1",
+            "id": "03b2346839fcd6d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "General/Real Numbers.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Variables & Expressions.md",
+                "file": "Algebra/Factoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Variables & Expressions.md",
+                "file": "Algebra/Factoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Variables & Expressions.md"
+                "file": "Algebra/Factoring.md"
               }
             }
           },
@@ -181,11 +181,11 @@
   "active": "f87da26f0cc308de",
   "lastOpenFiles": [
     "General/Real Numbers.md",
-    "Algebra/Rational Expressions.md",
-    "Algebra/Variables & Expressions.md",
-    "General/General.md",
     "Algebra/Factoring.md",
     "Algebra/Algebra.md",
+    "Algebra/Variables & Expressions.md",
+    "Algebra/Rational Expressions.md",
+    "General/General.md",
     "General/Radicals.md",
     "General/Exponential Notation.md",
     "conflict-files-obsidian-git.md",

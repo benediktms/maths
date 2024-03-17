@@ -37,15 +37,18 @@ $$ax+2ay = a(x+2y)$$
 
 ## Factoring out a common factor
 
-When two terms have a common factor we can use the Distributive property so simplify the expression:
-$$\begin{align}
+When two terms have a common factor we can use the Distributive property to simplify the expression:
+$$
+\begin{align}
 (2x+4)(x-3)-5(x-3) &=[(2x+4)-5](x-3)\\
 &=(2x-1)(x-3)
-\end{align}$$
+\end{align}
+$$
 
 A lot of the time we will have to find common factors by trial and error. We should always try to find common factors of the **leading coefficient** and the **constant** of a polynomial, and then see how we can apply those factors to get the middle coefficient. Assuming that all numbers are integers, this should limit the possibilities.
 
 If we have a situation where in a trinomial the leading coefficient $=1$ then we can simply try to find the factors of the product of the constant and the sum of the middle coefficient.
+
 >[!example]
 >$$\begin{align}
 >& x^2+7x+12\\

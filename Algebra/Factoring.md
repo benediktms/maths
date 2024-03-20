@@ -1,4 +1,4 @@
-Factorization is the opposite of expansion. We can use the [[Real Numbers#Distributive Property|Distributive Property]] for both these use cases. We factor a complex expression as a product of simpler expressions.
+Factorisation is the opposite of expansion. It's the process of breaking an expression into smaller pieces. We can use the [[Real Numbers#Distributive Property|Distributive Property]] for both these use cases. We factor a complex expression as a product of simpler expressions.
 
 For example, in the following expression:
 $$x^2-4=(x-2)(x+2)$$
@@ -13,7 +13,7 @@ so we need to choose numbers $r$ and $s$ so that $r+s=b$ and $rs=c$
 
 ## Common factors
 
-The easiest way to factor an expression is when we have common terms. Therefore, when we need to factorize an expression, we need to find the greatest common factor of all the terms.
+The easiest way to factor an expression is when we have common terms. Therefore, when we need to factorise an expression, we need to find the greatest common factor of all the terms.
 
 When we multiply two numbers together, each number is called a **factor** of the product. When we add two numbers together, each number is called a **term** of the sum.
  

@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f9f10bdde7a0c818",
@@ -178,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f87da26f0cc308de",
+  "active": "4340fe3ebbf1469a",
   "lastOpenFiles": [
     "General/Real Numbers.md",
     "Algebra/Factoring.md",
